@@ -8,7 +8,7 @@
 
 3.Альбом с данной композицией
 
-При отсутствии данных вывод “page not found” 
+При отсутствии данных вывод “No tracks were found with the term ''” 
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.30.
 
